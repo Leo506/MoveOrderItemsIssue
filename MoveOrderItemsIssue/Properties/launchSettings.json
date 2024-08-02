@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "Bars": {
+      "commandName": "Executable",
+      "commandLineArgs": "/a=$(TargetPath) /c=MoveOrderItemsIssue.Program /m=21016318 /l=\"%AppData%\\iiko\\CashServer\\Logs\\DEBUG_plugin_MoveOrderItemsIssue.log\"",
+      "executablePath": "%ProgramFiles%\\iiko\\iikoRMS\\Front.Net\\Resto.Front.Api.Host.exe"
+    }
+  }
+}
